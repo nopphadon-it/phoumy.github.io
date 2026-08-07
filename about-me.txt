@@ -1,0 +1,148 @@
+# Phoumy Sisavath
+
+## Backend Developer | DevOps Engineer
+
+I am a backend developer passionate about building reliable, scalable, and maintainable software systems. I focus on backend development, API design, microservices, database management, and DevOps practices.
+
+I enjoy solving complex technical problems, improving system performance, automating deployments, and learning new technologies to create better software solutions.
+
+---
+
+## About Me
+
+I specialize in backend development and have experience working with modern backend technologies, databases, containerization, and infrastructure tools.
+
+My experience includes designing and developing REST APIs, building microservices, managing databases, creating deployment pipelines, and monitoring application performance.
+
+I believe in writing clean code, following good engineering practices, and continuously improving systems through research and automation.
+
+---
+
+## Technical Skills
+
+### Backend Development
+
+* Node.js
+* TypeScript
+* NestJS
+* Express.js
+* Java
+* Spring Boot
+* REST API
+* gRPC
+* Microservices Architecture
+
+### Database & Storage
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+* Prisma ORM
+
+### DevOps & Infrastructure
+
+* Docker
+* Docker Compose
+* Docker Swarm
+* Kubernetes
+* NGINX
+* GitLab CI/CD
+* Jenkins
+* Terraform
+* Vault
+
+### Monitoring & Logging
+
+* Prometheus
+* Grafana
+* Loki
+* Promtail
+* Node Exporter
+
+### Development Tools
+
+* Git
+* Linux
+* Postman
+* SonarQube
+
+---
+
+## Projects
+
+### E-Commerce Backend System
+
+A backend system designed to support e-commerce operations, including product management, user management, order processing, and business logic.
+
+Responsibilities:
+
+* Designed and developed backend APIs
+* Created database structures and relationships
+* Implemented authentication and authorization
+* Improved system performance and reliability
+* Managed deployment environments
+
+Technologies:
+Node.js, NestJS, TypeScript, PostgreSQL, Redis, Docker
+
+---
+
+### Payment Service
+
+A backend service responsible for handling payment-related processes and communication between systems.
+
+Responsibilities:
+
+* Developed backend services
+* Integrated external APIs
+* Implemented secure data processing
+* Improved service stability and maintainability
+
+Technologies:
+Java, Spring Boot, PostgreSQL, Docker
+
+---
+
+### Monitoring Infrastructure
+
+A monitoring solution for observing application performance, server health, and system logs.
+
+Features:
+
+* Application metrics monitoring
+* Centralized logging
+* Server monitoring
+* Alert management
+
+Technologies:
+Prometheus, Grafana, Loki, Docker
+
+---
+
+## Experience
+
+### Backend Developer / Backend Team Leader
+
+Responsibilities:
+
+* Develop and maintain backend services
+* Design system architecture
+* Review and improve code quality
+* Support deployment and infrastructure operations
+* Research new technologies and improve engineering processes
+* Create technical documentation and development standards
+
+---
+
+## Interests
+
+I am interested in:
+
+* Backend architecture
+* Cloud infrastructure
+* DevOps automation
+* System design
+* Software performance optimization
+* Game development
+* Learning new technologies
