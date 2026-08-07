@@ -95,7 +95,7 @@ export const projects = [
 ]
 
 export const experience = {
-  title: 'Backend Developer / Backend Team Leader',
+  title: 'Backend Developer / Backend Team Leader / DevOps Engineer',
   responsibilities: [
     'Develop and maintain backend services',
     'Design system architecture',
