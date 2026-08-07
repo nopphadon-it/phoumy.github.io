@@ -13,14 +13,14 @@ npm run dev
 
 ## Deploy to GitHub Pages
 
-Build and publish the production files to the `gh-pages` branch:
+Build into the `docs/` folder on `main`:
 
 ```bash
-npm run deploy
+npm run build
 ```
 
-Then in the GitHub repo: **Settings → Pages → Source → Deploy from a branch → `gh-pages` / `/ (root)`**.
+Then commit and push `docs/`.
 
-Do not point Pages at `main` — that serves the Vite source `index.html` and will break.
+In the GitHub repo: **Settings → Pages → Source → Deploy from a branch → `main` / `/docs`**.
 
 Content lives in `src/data/content.ts` and `about-me.txt`.
