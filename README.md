@@ -13,14 +13,14 @@ npm run dev
 
 ## Deploy to GitHub Pages
 
-Build into the `docs/` folder on `main`:
-
 ```bash
-npm run build
+npm run deploy
 ```
 
-Then commit and push `docs/`.
+This builds the site and publishes it to the `gh-pages` branch.
 
-In the GitHub repo: **Settings → Pages → Source → Deploy from a branch → `main` / `/docs`**.
+In the GitHub repo: **Settings → Pages → Source → Deploy from a branch → `gh-pages` / `/ (root)`**.
 
-Content lives in `src/data/content.ts` and `about-me.txt`.
+After content changes, always run `npm run deploy` (not only `git push`).
+
+Content lives in `src/data/content.ts`.
